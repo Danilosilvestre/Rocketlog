@@ -1,4 +1,4 @@
-service:
+services:
   postgres:
     image: "bitnami/postgresql:latest"
     ports:
